@@ -1,2 +1,2 @@
-# zadanie14_4
-https://teyreach.github.io/zadanie14_4/
+# ReactJS-2
+https://teyreach.github.io/ReactJS-2/
